@@ -16,7 +16,7 @@
 
 &#x20;     **<a href="TWOJ\_LINK\_OPINII\_GOOGLE">**
 
-&#x20;       **<img src="opinia.png" width="450" style="display:block;">**
+&#x20;       **<img src="google.png" width="450" style="display:block;">**
 
 &#x20;     **</a>**
 
