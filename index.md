@@ -1,64 +1,29 @@
-**<!doctype html>**
+<table cellpadding="0" cellspacing="0" border="0">
 
-**<html>**
+  <tr>
+    
+    <td align="center" valign="top">
+      <a href="LINK_GOOGLE">
+        <img src="google.png" width="150" style="display:block;">
+      </a>
+    </td>
 
-**<body>**
+    <td width="10"></td>
 
+    <td align="center" valign="top">
+      <a href="LINK_FACEBOOK">
+        <img src="facebook.png" width="150" style="display:block;">
+      </a>
+    </td>
 
+    <td width="10"></td>
 
-**<table cellpadding="0" cellspacing="0" border="0">**
+    <td align="center" valign="top">
+      <a href="LINK_INSTAGRAM">
+        <img src="instagram.png" width="150" style="display:block;">
+      </a>
+    </td>
 
+  </tr>
 
-
-&#x20; **<tr>**
-
-&#x20;   **<td>**
-
-&#x20;     **<a href="TWOJ\_LINK\_OPINII\_GOOGLE">**
-
-&#x20;       **<img src="google.png" width="450" style="display:block;">**
-
-&#x20;     **</a>**
-
-&#x20;   **</td>**
-
-&#x20; **</tr>**
-
-
-
-&#x20; **<tr>**
-
-&#x20;   **<td>**
-
-
-
-&#x20;     **<a href="https://www.facebook.com/profile.php?id=61582230478917">**
-
-&#x20;       **<img src="facebook.png" width="150" style="display:inline-block;">**
-
-&#x20;     **</a>**
-
-
-
-&#x20;     **<a href="https://www.instagram.com/kia.mgt.lowicz/">**
-
-&#x20;       **<img src="instagram.png" width="150" style="display:inline-block;">**
-
-&#x20;     **</a>**
-
-
-
-&#x20;   **</td>**
-
-&#x20; **</tr>**
-
-
-
-**</table>**
-
-
-
-**</body>**
-
-**</html>**
-
+</table>
